@@ -86,7 +86,7 @@ main {
   display: flex;
   align-items: center;
   padding: 0 22px;
-  background-color: #ffffff;
+  background-color: #ebeaff;
   margin-bottom: 42px;
 }
 
@@ -115,10 +115,11 @@ main {
   align-self: stretch;
   width: 100%;
   font-weight: 500;
+  background-color: #ebeaff;
 }
 
 .goal-input::placeholder {
-  color: #d9d9d9;
+  color: #a9a9a9;
 }
 
 .quote {
